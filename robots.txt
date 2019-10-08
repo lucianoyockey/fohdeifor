@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://liedaechie.minionmade.com/sitemap.xml
